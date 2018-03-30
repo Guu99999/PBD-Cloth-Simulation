@@ -1,8 +1,7 @@
 # PBD-Cloth-Simulation
 Position based dynamics is a popular method in computer graphcis to simulate objects' movements by external and internal forces.
 Resources:
-a. Original PBD paper
-http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf
+a. Original PBD paper http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf
 b. http://mmacklin.com/EG2015PBD.pdf
 
 # What I implement:
